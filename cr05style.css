@@ -1,0 +1,148 @@
+/*html head and main*/
+
+.header01{
+	background-color: black;
+	width: 100%;
+	height: auto;
+	color: white;
+	padding: 1rem;
+	text-align: center;
+}
+
+button {
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+.nav {
+	background-color: #454545;
+	width: 100%;
+	height: auto;
+	color: white;
+	padding: 1rem;	
+}
+
+.top {
+	background-color: #1D2329;
+	padding-top: 1rem;
+	color: white;
+}
+
+.movie {
+	text-align: center;
+	padding-left: 2.6rem;
+}
+
+.sort {
+	text-align: right;
+}
+
+#content {
+	width: 100%;
+	padding-left: 10rem;
+	padding-right: 8rem;
+	margin-left: 0;
+	margin-right: 0;		
+}
+
+/*JavaScript*/
+
+.box {
+	height: 18rem;
+	background-color: #181818;
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+	color: white;
+	display: flex;
+	align-items: center;
+}
+
+.box2 {
+	width: 40%;
+	height: 100%;
+	color: white;
+	padding: 0rem;
+	margin: 0rem;
+}		
+
+.movPic {
+	width: 100%;
+	height: 100%;
+}
+
+.box3 {	
+	width: 60%;
+	height: 100%;
+	color: white;
+	margin: 0;
+			
+}
+
+.movNa {
+	font-size: 150%;
+}
+
+.movDe {
+	font-size: 80%;
+}
+
+.likeSys {
+	height: 70%;
+	color: #32A23D;
+	padding-left: 50%;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-top: 35%;
+	margin: 0;
+}
+
+.likeP1 {
+	width: 5.5rem;
+	height: 4rem;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;		
+	font-size: 150%;
+	padding-right: 0;
+	margin-right: 0;			
+}
+
+.likeP2 {
+	height: 4rem;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.circel {
+	width: 150%;
+	height: 100%;
+	border-radius: 50%;
+	background-color: #32A23D;
+	color: white;
+	text-align: center;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;		
+	font-size: 200%;			
+}
+
+/*html footer*/
+
+.space {
+	width: 100%;
+	height: 20rem;
+}
+
+#bottom01{
+	background-color: black;
+	width: 100%;
+	height: auto;
+	color: white;
+	padding: 1rem;
+	text-align: center;
+}

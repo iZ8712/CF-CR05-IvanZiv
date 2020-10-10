@@ -1,0 +1,46 @@
+var movie =`[
+    {
+        "movieName": "Fight Club",
+        "image": "img/FightClub.jpg",
+        "description": "A short description",
+        "likes":0        
+    },{
+        "movieName": "Ex_Machina",
+        "image": "img/exMachina.jpg",
+        "description": "A short description",
+        "likes":0
+    },{
+        "movieName": "The 13th Warrior",
+        "image": "img/13thwarrior.jpg",
+        "description": "A short description",
+        "likes":0
+    },{
+        "movieName": "Hang ’Em High",
+        "image": "img/HangEmHigh.jpg",
+        "description": "A short description",
+        "likes": 0
+    },{
+        "movieName": "7 Samurai",
+        "image": "img/7samurai.jpg",
+        "description": "A short description",
+        "likes":0
+    },{
+        "movieName": "The Godfather",
+        "image": "img/TheGodfather.jpg",
+        "description": "A short description",
+        "likes":0
+    }]`;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
